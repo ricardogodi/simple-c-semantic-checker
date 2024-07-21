@@ -19,7 +19,7 @@ The C# framework was provided by Prof. Joe Hummel and later modified by Pat Troy
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/ricardogodi/simple-c-semantic-checker.git
     cd yourrepository
     ```
 
