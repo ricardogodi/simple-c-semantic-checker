@@ -6,7 +6,7 @@ This F# project focuses on parsing and semantically checking "simple C" programs
 
 ### Contributions
 
-The C# framework was provided by Prof. Joe Hummel and later modified by Pat Troy, UIC. My specific contribution as a student was to create the parser and semantic analyzer in `parser.fs`, `analyzer.fs`, and `checker.fs` modules.
+The F# framework was provided by Prof. Joe Hummel and later modified by Pat Troy, UIC. My specific contribution as a student was to create the parser and semantic analyzer in `parser.fs`, `analyzer.fs`, and `checker.fs` modules.
 
 ## Instructions
 
