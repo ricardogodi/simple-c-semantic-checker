@@ -45,7 +45,6 @@ The C# framework was provided by Prof. Joe Hummel and later modified by Pat Troy
 ### Usage
 
 1. When prompted, enter the filename of the "simple C" program file. Sample files like `main1.c`, `main2.c`, and `main3.c` are provided for testing.
-2. Follow the prompts to receive feedback on the syntax and semantic analysis of the program.
 
 ## Lexical Analysis
 
