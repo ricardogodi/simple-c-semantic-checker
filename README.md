@@ -20,7 +20,7 @@ The C# framework was provided by Prof. Joe Hummel and later modified by Pat Troy
 
     ```sh
     git clone https://github.com/ricardogodi/simple-c-semantic-checker.git
-    cd yourrepository
+    cd simple-c-semantic-checker
     ```
 
 2. Ensure .NET 8 SDK is installed:
